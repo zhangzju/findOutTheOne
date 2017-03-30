@@ -4,3 +4,11 @@
 这个游戏的参与人数是5到7人。
 
 ## 角色
+
+### Men
+
+### Wizard
+
+### Exchanger
+
+### NightingGale
